@@ -19,14 +19,16 @@ if (isset($_POST['tambah'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style/styles.css" />
+    <link rel="stylesheet" href="style/style3.css" />
     <title>Tambah User</title>
 </head>
 
 <body>
-      
-    <div class="navbar">
-        <a href="?hal=tampiluser">Kembali Ke Data User</a>
+
+    <div class="box">
+        <center>
+            <a href="?hal=tampiluser">Kembali Ke Data User</a>
+        </center>
         <br>
         <br>
         <form action="?hal=tambahuser" method="post">

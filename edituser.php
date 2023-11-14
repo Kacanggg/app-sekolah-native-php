@@ -28,7 +28,7 @@ if (isset($_POST['update'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style/styles.css" />
+    <link rel="stylesheet" href="style/style2.css" />
     <title>Edit Data User</title>
 </head>
 
@@ -47,7 +47,8 @@ if (isset($_POST['update'])) {
                 </tr>
                 <tr>
                     <td><label for="username">Username</label></td>
-                    <td>:&nbsp;<input type="text" name="username" placeholder="Username" value="<?= $row['username'] ?>">
+                    <td>:&nbsp;<input type="text" name="username" placeholder="Username"
+                            value="<?= $row['username'] ?>">
                     </td>
                 </tr>
                 <tr>

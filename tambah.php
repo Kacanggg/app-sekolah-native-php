@@ -14,13 +14,15 @@ if (isset($_POST['tambah'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style/style.css" />
+    <link rel="stylesheet" href="style/style3.css" />
     <title>Tambah Siswa</title>
 </head>
 
 <body>
-    <div class="posisi">
-        <a href="?hal=tampil">Kembali Ke Data Siswa</a>
+    <div class="box">
+        <center>
+            <a href="?hal=tampil">Kembali Ke Data Siswa</a>
+        </center>
         <br>
         <br>
         <form action="?hal=tambah" method="post">

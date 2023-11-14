@@ -15,7 +15,7 @@ $data = mysqli_query($conn, "SELECT * FROM tbsiswa ORDER BY nama_siswa ASC");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style/styles.css" />
+    <link rel="stylesheet" href="style/style2.css" />
     <title>Tampil Siswa</title>
 </head>
 
