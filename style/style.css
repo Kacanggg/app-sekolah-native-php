@@ -1,0 +1,140 @@
+/* body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #3498db;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  margin: 10px auto;
+}
+
+.sidebar {
+  width: 0;
+  background-color: #333;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow-x: hidden;
+  transition: 0.3s;
+  z-index: 1;
+}
+
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 20px;
+  cursor: pointer;
+  color: white;
+}
+
+.sidebar h2 {
+  font-size: 24px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar li {
+  margin-bottom: 10px;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.open-btn {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.content {
+  flex: 1;
+  padding: 10px;
+}
+
+.judul {
+  font-size: 32px;
+  color: #333;
+  text-align: center;
+  padding: 10px;
+}
+
+.link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.table {
+  font-size: 13pt;
+}
+
+.table tr th {
+  background-color: #35a9db;
+}
+
+.tr,
+.td {
+  text-align: center;
+}
+
+.text {
+  text-align: left;
+}
+
+.btn-delete {
+  border: 1px solid #db5d59;
+  background: #db5d59 url("img/hapus.png") no-repeat 7px 6px;
+  height: 22px;
+  padding-left: 22px;
+  padding-right: 3px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.btn-edit {
+  border: 1px solid #00b3a8;
+  background: #00b3a8 url("img/edit.png") no-repeat 7px 6px;
+  height: 22px;
+  padding-left: 22px;
+  padding-right: 3px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.tabel {
+  width: 48%;
+  min-height: 300px;
+  float: right;
+  padding-right: 5px;
+}
+
+ */
